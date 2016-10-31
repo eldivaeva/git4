@@ -1,4 +1,6 @@
-﻿123456
+Changes at GitHub
+123456
+     
 namespace Globals123sdfsdf
 {
     class MyGlobals
