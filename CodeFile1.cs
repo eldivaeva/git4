@@ -1,4 +1,4 @@
-﻿namespace Globals123
+﻿namespace Globals123sdfsdf
 {
     class MyGlobals
     {
