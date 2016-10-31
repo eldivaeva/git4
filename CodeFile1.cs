@@ -1,4 +1,4 @@
-﻿123
+﻿123456
 namespace Globals123sdfsdf
 {
     class MyGlobals
